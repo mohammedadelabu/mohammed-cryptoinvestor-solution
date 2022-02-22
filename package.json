@@ -1,0 +1,21 @@
+{
+  "name": "cryptoinvestor-master",
+  "description": "A crypto investor",
+  "version": "1.0.0",
+  "main": "cryptoInvestor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node cryptoInvestor"
+  },
+  "keywords": [],
+  "author": "Mohammed Hassan",
+  "license": "ISC",
+  "dependencies": {
+    "await": "^0.2.6",
+    "date-and-time": "^2.1.2",
+    "parser": "^0.1.4",
+    "promise": "^8.1.0",
+    "request": "^2.88.2",
+    "yargs": "^17.3.1"
+  }
+}
